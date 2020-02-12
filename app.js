@@ -27,7 +27,7 @@ function printMM(num) {
         }
     } else {
 
-    console.log("The number must be odd!");
+    console.log("The number is not odd!");
   
     }
 }
